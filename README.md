@@ -1,2 +1,20 @@
 # Modularbeit_AETS
 Uni Projektarbeit
+
+Rollenverteilung:
+1. Sinan Saglam         Systemarchitekt & Mechanical Expert
+2. Ismiazem Selimi      Systemanalyst & Test Engineer
+3. Murat Uyar           HW & Software Expert
+
+
+
+Ziel der Arbeit:
+Zuverlässige, automatisierte, wartungsarme sowie Fehler- (insb. Ausfall-) sichere Wasserversorgung für eine frei wählbare Zimmerpflanze nutzen können.
+Pilothafter Aufbau für folgende Grundfunktionen: - Gießen  der  Pflanze
+                                                 - Nutzerdefinierbares Festlegen der Gießmenge
+                                                 - Nutzerdefinierbares Festlegen der täglichen Gießzeitpunkte
+
+Die Grundfunktionen sollen über ein Raspberry Pi basiertes Gieß-System umgesetzt werden.
+Zusätzlich wird nach einer Messdaten-basierte Analyse zum "Gießverhalten" erwartet. Was soll daraus erkennbar sein ?
+1. Der  Zusammenhang  zwischen  „Gießdauer“  und „Gießmenge“  unter  Überprüfung  der  Vermutung  eines  linearen Zusammenhangs zwischen „Gießmenge“ und „Gießdauer“
+2. Die Reproduzierbarkeit der Gießmenge in Form der Standardabweichung der „Gießmenge“ bei wiederholten Messungen mit der jeweils selben „Gießdauer“  quantifiziert  werden.
