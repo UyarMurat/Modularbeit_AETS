@@ -18,3 +18,19 @@ Die Grundfunktionen sollen über ein Raspberry Pi basiertes Gieß-System umgeset
 Zusätzlich wird nach einer Messdaten-basierte Analyse zum "Gießverhalten" erwartet. Was soll daraus erkennbar sein ?
 1. Der  Zusammenhang  zwischen  „Gießdauer“  und „Gießmenge“  unter  Überprüfung  der  Vermutung  eines  linearen Zusammenhangs zwischen „Gießmenge“ und „Gießdauer“
 2. Die Reproduzierbarkeit der Gießmenge in Form der Standardabweichung der „Gießmenge“ bei wiederholten Messungen mit der jeweils selben „Gießdauer“  quantifiziert  werden.
+
+
+10.06.2025 Discord
+
+- App entwickeln für Gießverhalten (Steuerung) und Gießzeitpunkte ?
+- Oder alles mechanisch ? für mechanisches System:
+                                                    - Potentiometer (Drehregler vonnöten)
+                                                    - Pumpe
+                                                    - Relais
+                                                    - Sensor (Feuchtigkeit und Füllstand)
+- Videos anschauen von Vorlesung bis nächsten Freitag
+
+
+Für Vorlesung nächste Woche 20.07.2025: 
+- Funktionen eingrenzen --> was wird von uns erwartet ? 
+- Morphologischer Kasten
