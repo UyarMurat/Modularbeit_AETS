@@ -3,6 +3,8 @@ Hardware die benötigt wird, mit folgender Software
 1. Raspberry PI --> Git Integration
 2. Bash Integration vonnöten --> Startverhalten des PI damit bestimmen
 
+Virtual Environment erstellen
+
 
 Uhrzeit vonnöten --> über feste Uhrzeiten das Gießen bestimmen, über den Feuchtigkeitssensor im idealfall neu antriggern (import time wichtig)
 Fernbedingung per App ?
