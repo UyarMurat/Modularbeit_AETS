@@ -1,0 +1,11 @@
+{
+    "Typ": "Strelitzia",
+    "Messtage": [
+        {"03.07.2025": "Bewässert", "ml": "50ml", "Tagestemperatur": "26 Grad"},
+        {"04.07.2025": "Bewässert", "ml": "59ml", "Tagestemperatur": "30 Grad"},
+        {"05.07.2025": "Bewässert", "ml": "60ml", "Tagestemperatur": "32 Grad"},
+        {"06.07.2025": "Bewässert", "ml": "62ml", "Tagestemperatur": "30 Grad"},
+        {"07.07.2025": "Bewässert", "ml": "60ml", "Tagestemperatur": "31 Grad"},
+        {"08.07.2025": "nicht Bewässert", "ml": "0ml", "Tagestemperatur": "18 Grad"}
+    ]
+}
