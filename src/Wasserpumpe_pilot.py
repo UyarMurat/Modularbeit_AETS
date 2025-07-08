@@ -1,5 +1,6 @@
 # Mit Tastendruck Pin auf High setzen, nochmaliges Drücken auf Low (Toggle-Effekt)
 # Pin 17
+#Funktioniert nicht, da in einer virtuellen Umgebung gearbeitet wird und es deswegen keine Root Rechte gibt.
 
 import RPi.GPIO as GPIO
 import time
